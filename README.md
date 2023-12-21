@@ -7,3 +7,4 @@ Feel free to message me if you like what you see - especially if you're a potent
 
 Description of Code Snippets:
 - On day two I wrote a short piece of code to convert a temperature in Celsius to Fahrenheit and output a statement detailing the result using string interpolation.
+- On day four I wrote a short piece of code to create an array of strings and return a count of items in that array as well as a list of unique items in that array.
